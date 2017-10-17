@@ -23,4 +23,9 @@
         </resource>
     </resources>
 </build>
+<dependencies>
+</dependencies>
 ```
+
+
+5. go to https://mvnrepository.com/ to search for dependencies to add to your pom.xml file! 
